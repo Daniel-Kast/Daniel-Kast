@@ -20,10 +20,9 @@ I'm a retired U.S. Navy leader and current facilities team manager at Navy Feder
 - Explore ensemble methods and threshold tuning
 - Share insights through clean, copy-friendly notebooks and dashboards
 
-## 📦 Featured Projects
+## 📦 Featured Project
 
-- [Diabetes Prediction Benchmarking](https://github.com/Daniel-Kast/diabetes-prediction)
-- [Model Evaluation Suite](https://github.com/Daniel-Kast/model-evaluation)
+- [ANA 500 BRFSS Diabetes Prediction Project](https://github.com/Daniel-Kast/Daniel-Kast-ANA-500-BRFSS-Project)
 
 ---
 
