@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Kast
 
-<!--
-**Daniel-Kast/Daniel-Kast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a retired U.S. Navy leader and current facilities team manager at Navy Federal Credit Union. I'm also a student of data science and machine learning, focused on building reproducible workflows, interpretable models, and stakeholder-ready insights.
 
-Here are some ideas to get you started:
+## 🧠 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Benchmarking tabular models like TabTransformer, MLP, and Logistic Regression
+- Visualizing model performance with ROC, precision-recall, and confusion matrices
+- Building modular pipelines for reproducible research and educational communication
+
+## 🛠️ Tools & Skills
+
+- Python, pandas, scikit-learn, Jupyter, SAS, R
+- Model evaluation, interpretability, and workflow documentation
+- Strategic troubleshooting and peer mentoring
+
+## 📚 Learning Goals
+
+- Improve recall and precision tradeoffs in imbalanced classification
+- Explore ensemble methods and threshold tuning
+- Share insights through clean, copy-friendly notebooks and dashboards
+
+## 📦 Featured Projects
+
+- [Diabetes Prediction Benchmarking](https://github.com/Daniel-Kast/diabetes-prediction)
+- [Model Evaluation Suite](https://github.com/Daniel-Kast/model-evaluation)
+
+---
+
+Thanks for visiting my profile! I'm learning by building — feel free to explore my projects or connect.
