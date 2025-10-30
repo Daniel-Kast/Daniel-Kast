@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Kast
 
-I'm a retired U.S. Navy leader and current facilities team manager at Navy Federal Credit Union. I'm also a student of data science and machine learning, focused on building reproducible workflows, interpretable models, and stakeholder-ready insights.
+I'm a retired U.S. Navy leader and current facilities team asst. manager at Navy Federal Credit Union. I'm also a student of data science and machine learning, focused on building reproducible workflows, interpretable models, and stakeholder-ready insights.
 
 ## 🧠 What I'm Working On
 
